@@ -1,0 +1,85 @@
+{
+  "buildCommand" : "preview",
+  "configuredTargets" : [
+    {
+      "guid" : "b723b589a10ba79b54271ffecbeee514445a19f12c4eb816bbea2117bee539ed",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx11.3",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "x86_64h",
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Products",
+          "derivedDataPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared",
+          "indexDataStoreFolderPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Fire_Cracker-fihmboshndyhwtcloddigelmmurk/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Fire_Cracker-fihmboshndyhwtcloddigelmmurk/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "DSTROOT" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Intermediates.noindex/Previews/Fire Cracker (macOS)/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Intermediates.noindex/Previews/Fire Cracker (macOS)/Intermediates.noindex",
+              "SYMROOT" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Intermediates.noindex/Previews/Fire Cracker (macOS)/Products"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Products",
+      "derivedDataPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared",
+      "indexDataStoreFolderPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Fire_Cracker-fihmboshndyhwtcloddigelmmurk/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Fire_Cracker-fihmboshndyhwtcloddigelmmurk/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/arc18angels/Desktop/Fire Cracker/Shared/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
